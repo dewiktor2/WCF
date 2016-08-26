@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="318fb214-22ac-49e0-8881-20578cd19841" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.ObjectModel.ObservableCollection`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:4012/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="88868ebd-3995-4c34-b2ab-b71f54b5bdc3" SourceId="1" SourceUrl="http://localhost:4012/?xsd=xsd0" />
+    <MetadataFile FileName="WeatherAppService.wsdl" MetadataType="Wsdl" ID="7494044d-0a32-427c-9462-b5c924b7d226" SourceId="1" SourceUrl="http://localhost:4012/?wsdl" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="e630c605-0b30-4261-8553-103b58f91392" SourceId="1" SourceUrl="http://localhost:4012/?xsd=xsd2" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="66f7ed0d-d73b-4a8c-b7a1-2fc2d5230a1e" SourceId="1" SourceUrl="http://localhost:4012/?xsd=xsd1" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="8956812a-8c90-4e97-b6ca-0adcd89c2694" SourceId="1" SourceUrl="http://localhost:4012/?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

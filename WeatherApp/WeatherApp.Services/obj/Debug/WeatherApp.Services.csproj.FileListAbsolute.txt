@@ -1,0 +1,14 @@
+c:\users\wiktor\documents\visual studio 2015\Projects\WeatherApp\WeatherApp.Services\bin\Debug\WeatherApp.Services.dll.config
+c:\users\wiktor\documents\visual studio 2015\Projects\WeatherApp\WeatherApp.Services\bin\Debug\WeatherApp.Services.dll
+c:\users\wiktor\documents\visual studio 2015\Projects\WeatherApp\WeatherApp.Services\bin\Debug\WeatherApp.Services.pdb
+c:\users\wiktor\documents\visual studio 2015\Projects\WeatherApp\WeatherApp.Services\obj\Debug\WeatherApp.Services.csprojResolveAssemblyReference.cache
+c:\users\wiktor\documents\visual studio 2015\Projects\WeatherApp\WeatherApp.Services\obj\Debug\WeatherApp.Services.dll
+c:\users\wiktor\documents\visual studio 2015\Projects\WeatherApp\WeatherApp.Services\obj\Debug\WeatherApp.Services.pdb
+c:\users\wiktor\documents\visual studio 2015\Projects\WeatherApp\WeatherApp.Services\bin\Debug\WeatherApp.Data.dll
+c:\users\wiktor\documents\visual studio 2015\Projects\WeatherApp\WeatherApp.Services\bin\Debug\WeatherApp.Entities.dll
+c:\users\wiktor\documents\visual studio 2015\Projects\WeatherApp\WeatherApp.Services\bin\Debug\EntityFramework.dll
+c:\users\wiktor\documents\visual studio 2015\Projects\WeatherApp\WeatherApp.Services\bin\Debug\WeatherApp.Data.pdb
+c:\users\wiktor\documents\visual studio 2015\Projects\WeatherApp\WeatherApp.Services\bin\Debug\WeatherApp.Entities.pdb
+c:\users\wiktor\documents\visual studio 2015\Projects\WeatherApp\WeatherApp.Services\bin\Debug\EntityFramework.xml
+c:\users\wiktor\documents\visual studio 2015\Projects\WeatherApp\WeatherApp.Services\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\wiktor\documents\visual studio 2015\Projects\WeatherApp\WeatherApp.Services\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,5 @@
+c:\users\wiktor\documents\visual studio 2015\Projects\WeatherApp\WeatherApp.Entities\bin\Debug\WeatherApp.Entities.dll
+c:\users\wiktor\documents\visual studio 2015\Projects\WeatherApp\WeatherApp.Entities\bin\Debug\WeatherApp.Entities.pdb
+c:\users\wiktor\documents\visual studio 2015\Projects\WeatherApp\WeatherApp.Entities\obj\Debug\WeatherApp.Entities.csprojResolveAssemblyReference.cache
+c:\users\wiktor\documents\visual studio 2015\Projects\WeatherApp\WeatherApp.Entities\obj\Debug\WeatherApp.Entities.dll
+c:\users\wiktor\documents\visual studio 2015\Projects\WeatherApp\WeatherApp.Entities\obj\Debug\WeatherApp.Entities.pdb

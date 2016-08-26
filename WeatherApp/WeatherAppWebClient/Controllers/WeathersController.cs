@@ -81,12 +81,15 @@ namespace WeatherAppWebClient.Controllers
         {
             WeatherAppServices.Weather weather = client.DeleteWeather(id);
 
+            
+
             Models.Weather weatherWeb = new Models.Weather();
+
+            weatherWeb.Date = DateTime.Now;
             weatherWeb.Id = weather.Id;
             weatherWeb.HumidityPercent = weather.HumidityPercent;
             weatherWeb.Wind = weather.Wind;
             weatherWeb.Temperature = weather.Temperature;
-            weatherWeb.Date = weather.Date;
             weatherWeb.City = weather.City;
             weatherWeb.Country = weather.Country;
 

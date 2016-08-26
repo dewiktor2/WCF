@@ -2,11 +2,13 @@
 WCF Server and Client ASP.NET
 
 #How to open app
-<font color="red">This is some text!</font>
- Right-Click on solution, check multiple projects: IIHost,WeatherAppServices,WeatherAppWebClient
- Run :)
- 
- Important info - always run visual studio as Administrator - there is problem with ports.
+
+#Important Info
+(There is problem with loading librares... Dont know how to solve, version which isn't at github works normally)
+
+#Other info
+(If someone succes loading) Right-Click on solution, check multiple projects: IIHost,WeatherAppServices,WeatherAppWebClient
+ also always run visual studio as Administrator - there is problem with ports.
  
  #Weather IIHost
  ![](https://github.com/dewiktor2/WCF/blob/master/WeatherService-IIHost.png)

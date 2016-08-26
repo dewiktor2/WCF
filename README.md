@@ -2,7 +2,7 @@
 WCF Server and Client ASP.NET
 
 #How to open app
-
+<font color="red">This is some text!</font>
  Right-Click on solution, check multiple projects: IIHost,WeatherAppServices,WeatherAppWebClient
  Run :)
  
@@ -19,3 +19,4 @@ WCF Server and Client ASP.NET
  #WeatherServices
  ![](https://github.com/dewiktor2/WCF/blob/master/WeatherApp.Services.png)
  
+#
